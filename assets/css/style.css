@@ -285,14 +285,14 @@ header{
     z-index: 1;
 }
 .banner-section-outer .banner-section .banner-section-content h1{
-    font-size: 110px;
+    font-size: 100px;
     line-height: 120px;
     margin-bottom: 25px;
     color: var(--e-global-color-white);
 }
 .banner-section-outer .banner-section .banner-section-content .banner_content_wrapper{
-    padding-left: 28px;
-    margin-left: 60px;
+    /* padding-left: 28px;
+    margin-left: 60px; */
     margin-bottom: 40px;
 }
 .banner-section-outer .banner-section .banner-section-content .banner_content_wrapper figure{
@@ -301,12 +301,12 @@ header{
 }
 .banner-section-outer .banner-section .banner-section-content p{
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 15px;
     line-height: 38px;
     font-weight: 600;
 }
 .banner-section-outer .banner-section-content .btn_wrapper{
-    padding-left: 60px;
+    /* padding-left: 60px; */
 }
 .banner-section-outer .banner-section-content .btn_wrapper .readmore_btn {
     margin-right: 12px;
